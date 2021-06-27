@@ -1,3 +1,3 @@
-# Spell Checker
+# Spell Checker Utility
 
 Поиск тавтологий в тексте
